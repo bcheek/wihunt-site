@@ -107,6 +107,7 @@ h3 { font-size: 17px; margin: 0 0 6px; }
   color: var(--cream);
   text-decoration: none;
 }
+a.store:hover { border-color: rgba(155, 227, 176, 0.6); background: rgba(155, 227, 176, 0.1); }
 .store small { color: var(--stone); font-size: 12px; }
 .store strong { font: 700 18px/1.3 var(--rounded); }
 

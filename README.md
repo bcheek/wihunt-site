@@ -10,6 +10,16 @@ no JavaScript, no tracking.
 | `support.html` | `/support.html` | Support URL in App Store Connect |
 | `404.html` | any missing page | GitHub Pages' not-found page |
 
+## Live site
+
+Published from the public repo [bcheek/wihunt-site](https://github.com/bcheek/wihunt-site) with GitHub Pages:
+
+- Landing / marketing URL: https://bcheek.github.io/wihunt-site/
+- Privacy policy URL: https://bcheek.github.io/wihunt-site/privacy.html
+- Support URL: https://bcheek.github.io/wihunt-site/support.html
+
+This folder is the source. After changing it, copy it to that repo and push (see "Publish on GitHub Pages").
+
 ## Preview locally
 
 ```bash
@@ -33,6 +43,7 @@ Optional: a custom domain (for example `wihunt.app`) under Settings › Pages �
 
 - The privacy policy text matches the "WiHunt Privacy Policy" doc. Change both together, and update the
   "Last updated" date in `privacy.html`.
-- At launch, replace the two "Coming soon" boxes in `index.html` with the official App Store and Google Play
-  badges and store links (Apple and Google each publish badge artwork and usage rules).
+- The App Store button links to https://apps.apple.com/us/app/wihunt-wisconsin-hunting/id6824698880. Apple's
+  official badge artwork can replace it later. Swap the Google Play box for its badge and link when the
+  Android app ships.
 - Each January, update the © year in the footers.
