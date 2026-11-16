@@ -44,6 +44,7 @@ Optional: a custom domain (for example `wihunt.app`) under Settings › Pages �
 - The privacy policy text matches the "WiHunt Privacy Policy" doc. Change both together, and update the
   "Last updated" date in `privacy.html`.
 - The App Store button links to https://apps.apple.com/us/app/wihunt-wisconsin-hunting/id6824698880. Apple's
-  official badge artwork can replace it later. Swap the Google Play box for its badge and link when the
-  Android app ships.
+  official badge artwork can replace it later.
+- The Google Play button links to https://play.google.com/store/apps/details?id=com.brucecheek.wihunt.
+  Google's official badge artwork can replace it later.
 - Each January, update the © year in the footers.
